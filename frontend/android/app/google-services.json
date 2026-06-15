@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "767643287155",
+    "project_id": "honkai-star-retail-6a858",
+    "storage_bucket": "honkai-star-retail-6a858.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767643287155:android:34fe9a04472d44b1cd3406",
+        "android_client_info": {
+          "package_name": "com.honkai_star_retail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767643287155-2lgdi4b0t6lonf8m10gcg5mh4n861ff6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.honkai_star_retail",
+            "certificate_hash": "d9c4162ab3be493cf7060d03ec9d2fc02c024e9b"
+          }
+        },
+        {
+          "client_id": "767643287155-b31lq72e3qe37353u431q44bg7ob53j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccErbS8-ScGXYYeGazwp5fCkszZPSMmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767643287155-b31lq72e3qe37353u431q44bg7ob53j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
